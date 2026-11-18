@@ -1,5 +1,5 @@
 {
-  "name": "jabed-spy-",
+  "name": "jabed-spy-profile",
   "version": "1.0.0",
   "description": "Profile-card rendering API for the Jabed Spy Profile project",
   "main": "server.js",
